@@ -1,4 +1,4 @@
-#UNUSED (DELETE)
+# UNUSED (DELETE)
 
 # React + TypeScript + Vite
 
